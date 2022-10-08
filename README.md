@@ -8,6 +8,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70F40&center=true&width=435&lines=Junior+software+engineer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
+### 🤝🏻 Connect with Me
+
+<p align="center">
+  <a href="#"><img alt="Email" src="https://img.shields.io/badge/-farouk.belhassine%40esprit.tn-D14836?logo=Gmail&logoColor=white"></a>
+  <a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/-%40FaroukBelhassine-1877F2?logo=linkedin"></a>
+</p>
+
 <br/>
 
 ## 🛠️ My tools
@@ -63,13 +70,6 @@
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
-
-### 🤝🏻 Connect with Me
-
-<p>
-  <a href="#"><img alt="Email" src="https://img.shields.io/badge/-farouk.belhassine%40esprit.tn-D14836?logo=Gmail&logoColor=white"></a>
-  <a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/-%40FaroukBelhassine-1877F2?logo=linkedin"></a>
 </p>
 
 ## 📊 GitHub Profile
