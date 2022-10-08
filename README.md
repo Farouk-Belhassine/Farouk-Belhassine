@@ -1,18 +1,11 @@
 <h3 align="center">
-  Welcome to Farouk Belhassine's profile!
+  Welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <!-- Typing SVG - git.io/typing-svg -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70F40&center=true&width=435&lines=Junior+software+engineer;Always+learning+new+things" alt="Typing SVG" /></a>
-</p>
-
-<!-- Social icons section -->
-<p align="center">
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/farouk-belhassine/"><img width="32px" alt="linkedin.com" title="Check out my LinkedIn profile" src="https://i.imgur.com/OQUXwNp.jpeg"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <br/>
@@ -37,16 +30,20 @@
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
 </p>
 
-### 🧰 Frameworks and libraries
+### 🧰 Frameworks and Toolkits
 
 <p>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/Symfony-111111.svg?logo=symfony&logoColor=white"></a>
+    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/-Angular-B47D29?logo=Angular"></a>
+    <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-0945BD?logo=spring"></a>
+    <a href="#"><img alt=".Net Core" src="https://img.shields.io/badge/-%20.Net%20Core-501794?logo=.net"></a>
+    <a href="#"><img alt="GatsbyJs" src="https://img.shields.io/badge/-GatsbyJS-843FD5?logo=Gatsby"></a>
+    <a href="#"><img alt="Qt" src="https://img.shields.io/badge/-Qt-D57123?logo=Qt"></a>
 </p>
 
-### 🗄️ Databases and cloud hosting
+### 🗄️ Databases
 
 <p>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
@@ -68,7 +65,14 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
+## 🤝🏻 Connect with Me
+
+<a href="#"><img alt="Email" src="https://img.shields.io/badge/-farouk.belhassine%40esprit.tn-D14836?logo=Gmail&logoColor=white"></a>
+<a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/-%40FaroukBelhassine-1877F2?logo=linkedin"></a>
+
 ## 📊 Github stats
+
+# Visitor count
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
