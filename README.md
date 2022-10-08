@@ -80,7 +80,7 @@
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-    <a href="#"><img alt="Unix" src="https://img.shields.io/badge/-Unix-lightgrey?logo=Unix"></a>
+    <a href="#"><img alt="Linux" src="https://camo.githubusercontent.com/2d5eae9b14e1ee9e8a79e3e0d738e50c1a62dd3acc773ee2875dfa19492139e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6c696e75782d3035313232413f7374796c653d666c6174266c6f676f3d6c696e7578"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
