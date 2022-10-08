@@ -37,8 +37,8 @@
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/Symfony-111111.svg?logo=symfony&logoColor=white"></a>
     <a href="#"><img alt="Angular" src="https://img.shields.io/badge/-Angular-B47D29?logo=Angular"></a>
+    <a href="#"><img alt=".Net Core" src="https://img.shields.io/badge/-%20.Net%20Core-6433FF?logo=.net"></a>
     <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-0945BD?logo=spring"></a>
-    <a href="#"><img alt=".Net Core" src="https://img.shields.io/badge/-%20.Net%20Core-501794?logo=.net"></a>
     <a href="#"><img alt="GatsbyJs" src="https://img.shields.io/badge/-GatsbyJS-843FD5?logo=Gatsby"></a>
     <a href="#"><img alt="Qt" src="https://img.shields.io/badge/-Qt-D57123?logo=Qt"></a>
 </p>
