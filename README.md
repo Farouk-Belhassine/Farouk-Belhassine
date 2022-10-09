@@ -14,7 +14,7 @@
 <!-- icon svg - custom-icon-badges.demolab.com -->
 <p align="center">
   <a href="#"><img alt="Email" src="https://img.shields.io/badge/-farouk.belhassine%40esprit.tn-D14836?logo=Gmail&logoColor=white"></a>
-  <a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/-%40FaroukBelhassine-1877F2?logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/farouk-belhassine/"><img alt="LinkedIn" src="https://img.shields.io/badge/-%40FaroukBelhassine-1877F2?logo=linkedin"></a>
 </p>
 
 <br/>
