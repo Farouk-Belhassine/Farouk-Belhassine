@@ -82,12 +82,6 @@
 
 ## 📊 GitHub Profile
 
-### Visitor count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Farouk-Belhassine/count.svg" />
-</p>
-
 ### 💻 Stats
 
 <p> 
@@ -107,3 +101,8 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Farouk-Belhassine&theme=radical" alt="Farouk-Belhassine" /></a>
 </p>
 
+### 👥 Visitor count
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Farouk-Belhassine/count.svg" />
+</p>
