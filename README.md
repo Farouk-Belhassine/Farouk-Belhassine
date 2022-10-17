@@ -59,7 +59,7 @@
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-    <a href="#"><img alt="wampserver" src="https://custom-icon-badges.demolab.com/badge/-Sublime%20Text-yellowgreen?logo=wampserver"></a>
+    <a href="#"><img alt="wampserver" src="https://custom-icon-badges.demolab.com/badge/-WampServer-yellowgreen?logo=wampserver"></a>
 </p>
 
 ### 💻 Software and tools
