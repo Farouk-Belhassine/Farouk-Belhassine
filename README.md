@@ -59,13 +59,11 @@
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-    <a href="#"><img alt="wampserver" src="https://custom-icon-badges.demolab.com/badge/-WampServer-yellowgreen?logo=wampserver"></a>
 </p>
 
 ### 💻 Software and tools
 
 <p>
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
     <a href="#"><img alt="Linux" src="https://camo.githubusercontent.com/2d5eae9b14e1ee9e8a79e3e0d738e50c1a62dd3acc773ee2875dfa19492139e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6c696e75782d3035313232413f7374796c653d666c6174266c6f676f3d6c696e7578"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
@@ -98,11 +96,4 @@
       <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Farouk-Belhassine's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farouk-Belhassine&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
     <br/>
       <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-
-### 💻 trophys
-
-<br/>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Farouk-Belhassine&theme=radical" alt="Farouk-Belhassine" /></a>
 </p>
