@@ -13,7 +13,8 @@
 <!-- badge - img.shields.io -->
 <!-- icon svg - custom-icon-badges.demolab.com -->
 <p align="center">
-  <a href="#"><img alt="Email" src="https://img.shields.io/badge/-farouk.belhassine%40esprit.tn-D14836?logo=Gmail&logoColor=white"></a>
+  <a href="#"><img alt="Email" src="https://img.shields.io/badge/-faroukbelhassine%40gmail.com-fdfdfd?logo=gmail"></a>
+  <a href="#"><img alt="Email" src="https://img.shields.io/badge/-farouk.belhassine%40esprit.tn-D14836?logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/farouk-belhassine/"><img alt="LinkedIn" src="https://img.shields.io/badge/-%40FaroukBelhassine-1877F2?logo=linkedin"></a>
 </p>
 
@@ -24,40 +25,40 @@
 ### 👨‍💻 Programming and markup languages
 
 <p>
-    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-    <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="XML" src="https://custom-icon-badges.demolab.com/badge/-xml-orange?logo=Xml"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-8892BF.svg?logo=php&logoColor=white"></a>
+  <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+  <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+  <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+  <a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+  <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+  <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-ffffff?logo=html5"></a>
+  <a href="#"><img alt="XML" src="https://custom-icon-badges.demolab.com/badge/-xml-ff6600?logo=xml"></a>
+  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and Toolkits
 
 <p>
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/Symfony-111111.svg?logo=symfony&logoColor=white"></a>
-    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/-Angular-B47D29?logo=Angular"></a>
-    <a href="#"><img alt=".Net Core" src="https://img.shields.io/badge/-%20.Net%20Core-6433FF?logo=.net"></a>
-    <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-0945BD?logo=spring"></a>
-    <a href="#"><img alt="GatsbyJs" src="https://img.shields.io/badge/-GatsbyJS-843FD5?logo=Gatsby"></a>
-    <a href="#"><img alt="Qt" src="https://img.shields.io/badge/-Qt-D57123?logo=Qt"></a>
-    <a href="#"><img alt="JavaFX Scene Builder" src="https://custom-icon-badges.demolab.com/badge/-JavaFX%20Scene%20Builder-lightgrey?logo=scenebuilderlogo"></a>
+  <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/-Laravel-333333?logo=laravel"></a>
+  <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/Symfony-111111.svg?logo=symfony&logoColor=white"></a>
+  <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-0945BD?logo=spring"></a>
+  <a href="#"><img alt=".Net Core" src="https://img.shields.io/badge/-%20.Net%20Core-6433FF?logo=.net"></a>
+  <a href="#"><img alt="Angular" src="https://img.shields.io/badge/-Angular-cc687f?logo=Angular&logoColor=DD0031"></a>
+  <a href="#"><img alt="GatsbyJs" src="https://img.shields.io/badge/-GatsbyJS-663399?logo=gatsby"></a>
+  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-343a40.svg?logo=bootstrap"></a>
+  <a href="#"><img alt="JavaFX" src="https://custom-icon-badges.demolab.com/badge/-JavaFX-0072c6?logo=javafx"><a>
+  <a href="#"><img alt="Qt" src="https://img.shields.io/badge/-Qt-7daae8?logo=Qt"></a>
 </p>
 
 ### 🗄️ Databases
 
 <p>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-0072C6.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-FF0000.svg?logo=oracle"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
 </p>
 
