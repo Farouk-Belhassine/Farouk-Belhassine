@@ -65,18 +65,17 @@
 ### 💻 Software and tools
 
 <p>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-    <a href="#"><img alt="Linux" src="https://camo.githubusercontent.com/2d5eae9b14e1ee9e8a79e3e0d738e50c1a62dd3acc773ee2875dfa19492139e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6c696e75782d3035313232413f7374796c653d666c6174266c6f676f3d6c696e7578"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="IntelliJ" src="https://custom-icon-badges.demolab.com/badge/-IntelliJ-FFFFFF?logo=intellij"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="PhpStorm" src="https://img.shields.io/badge/-PhpStorm-239543?logo=PhpStorm"></a>
-    <a href="#"><img alt="NetBeans" src="https://custom-icon-badges.demolab.com/badge/-NetBeans-C456BF?logo=netbeans"></a>
-    <a href="#"><img alt="codeblocks" src="https://custom-icon-badges.demolab.com/badge/-Code%3A%3ABlocks-FFFFFF?logo=codeblocks"></a>
-    <a href="#"><img alt="sublimetext" src="https://img.shields.io/badge/-Sublime%20Text-0F0344?logo=sublimetext"></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code"></a>
+  <a href="#"><img alt="IntelliJ" src="https://custom-icon-badges.demolab.com/badge/-IntelliJ-20232a?logo=intellij"></a>
+  <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio"></a>
+  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-ff6c37?logo=postman&logoColor=white"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+  <a href="#"><img alt="Linux" src="https://camo.githubusercontent.com/2d5eae9b14e1ee9e8a79e3e0d738e50c1a62dd3acc773ee2875dfa19492139e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6c696e75782d3035313232413f7374796c653d666c6174266c6f676f3d6c696e7578"></a>
+  <a href="#"><img alt="PhpStorm" src="https://img.shields.io/badge/-PhpStorm-c73df5?logo=PhpStorm"></a>
+  <a href="#"><img alt="NetBeans" src="https://custom-icon-badges.demolab.com/badge/-NetBeans-1b365d?logo=netbeans"></a>
+  <a href="#"><img alt="codeblocks" src="https://custom-icon-badges.demolab.com/badge/-Code%3A%3ABlocks-FFFFFF?logo=codeblocks"></a>
+  <a href="#"><img alt="sublimetext" src="https://img.shields.io/badge/-Sublime%20Text-0F0344?logo=sublimetext"></a>
+  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
 </p>
 
 ## 📊 GitHub Profile
