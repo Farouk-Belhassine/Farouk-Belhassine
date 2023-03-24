@@ -97,3 +97,6 @@
     <br/>
       <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
+
+   ## snake eating graph
+    ![snake gif](https://github.com/Farouk-Belhassine/Farouk-Belhassine/blob/output/github-contribution-grid-snake.gif)
