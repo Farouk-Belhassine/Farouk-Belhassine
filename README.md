@@ -13,8 +13,8 @@
 <!-- badge - img.shields.io -->
 <!-- icon svg - custom-icon-badges.demolab.com -->
 <p align="center">
-  <a href="#"><img alt="Email" src="https://img.shields.io/badge/-faroukbelhassine%40gmail.com-fdfdfd?logo=gmail"></a>
-  <a href="#"><img alt="Email" src="https://img.shields.io/badge/-farouk.belhassine%40esprit.tn-D14836?logo=gmail&logoColor=white"></a>
+  <a href="mailto:faroukbelhassine@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-faroukbelhassine%40gmail.com-fdfdfd?logo=gmail"></a>
+  <a href="mailto:farouk.belhassine@esprit.tn"><img alt="Email" src="https://img.shields.io/badge/-farouk.belhassine%40esprit.tn-D14836?logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/farouk-belhassine/"><img alt="LinkedIn" src="https://img.shields.io/badge/-%40FaroukBelhassine-1877F2?logo=linkedin"></a>
 </p>
 
@@ -50,8 +50,8 @@
   <a href="https://angular.io/"><img alt="Angular" src="https://img.shields.io/badge/-Angular-cc687f?logo=Angular&logoColor=DD0031"></a>
   <a href="https://www.gatsbyjs.com/"><img alt="GatsbyJs" src="https://img.shields.io/badge/-GatsbyJS-663399?logo=gatsby"></a>
   <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-343a40.svg?logo=bootstrap"></a>
-  <a href="https://openjfx.io/"><img alt="JavaFX" src="https://custom-icon-badges.demolab.com/badge/-JavaFX-0072c6?logo=javafx"><a>
   <a href="https://www.qt.io/"><img alt="Qt" src="https://img.shields.io/badge/-Qt-7daae8?logo=Qt"></a>
+  <a href="https://openjfx.io/"><img alt="JavaFX" src="https://custom-icon-badges.demolab.com/badge/-JavaFX-0072c6?logo=javafx"><a>
 </p>
 
 ### 🗄️ Databases
