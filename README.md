@@ -14,7 +14,6 @@
 <!-- icon svg - custom-icon-badges.demolab.com -->
 <p align="center">
   <a href="mailto:faroukbelhassine@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-faroukbelhassine%40gmail.com-fdfdfd?logo=gmail"></a>
-  <a href="mailto:farouk.belhassine@esprit.tn"><img alt="Email" src="https://img.shields.io/badge/-farouk.belhassine%40esprit.tn-D14836?logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/farouk-belhassine/"><img alt="LinkedIn" src="https://img.shields.io/badge/-%40FaroukBelhassine-1877F2?logo=linkedin"></a>
 </p>
 
