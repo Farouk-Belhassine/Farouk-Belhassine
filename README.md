@@ -5,7 +5,7 @@ Software Engineer with years of experience building backend systems, APIs, and t
 ### 🛠 My Toolbox
 
 - **Backend**: PHP (Laravel), Node.js
-- **Frontend**: JavaScript (Vanilla, Angular), Bootstrap, Tailwind
+- **Frontend**: JavaScript (Vanilla), Bootstrap, Tailwind
 - **Databases**: PostgreSQL, MySQL, SQLite
 - **DevOps**: Bash, Git, Linux, Docker
 - **Testing & Tools**: Postman, PHPUnit, VS Code, PhpStorm
