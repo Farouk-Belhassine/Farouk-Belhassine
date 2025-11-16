@@ -30,7 +30,7 @@ I don’t tolerate fragile code, vague specs, or meetings that should’ve been 
 I’ll take an ugly 50-line function that *survives* over a shiny 5-layer diagram that folds under a null.
 
 I don’t worship **“if it works, don’t touch it.”**  
-That’s not engineering—it’s fear with a PR strategy.  
+That’s not engineering,it’s fear with a PR strategy.  
 **Legacy doesn’t rot. People let it rot.**
 
 </details>
